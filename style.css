@@ -1,0 +1,15 @@
+.background {
+    background-color:blanchedalmond;
+  }
+
+  .color-text-1 {
+    color: black;
+  }
+
+  #text{
+    text-align: center;
+  }
+
+  #hey:hover {
+    font-size: 40px;
+  }
