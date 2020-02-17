@@ -1,1 +1,1 @@
-im currently trying to open a webpage just using github
+im currently testing up something, just for practicing purposes
